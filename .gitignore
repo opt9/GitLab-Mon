@@ -1,0 +1,7 @@
+config.yml
+*.txt
+*.old
+*.release
+*.log
+*.iml
+.idea/
